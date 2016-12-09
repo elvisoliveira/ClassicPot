@@ -1,6 +1,8 @@
 # ClassicPot
 Ragnarök Online macro script made with [AutoIt](https://www.autoitscript.com/) to monitor and automate the consumption of healing and recovering items. This code was build to work with the international classic client, but it can be adapted to work with other servers as well.
 
+![alt tag](http://i.imgur.com/2Mwn2Gr.png)
+
 ## Dependencies
 As the script relies on memory check to get status information of the character, it is required to include **NomadMemory.au3** in the folder, because this is not a default extension for **AutoIt**.
 
